@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-21\SerializationDeserializationAssignment-26\SerializationDeserializationAssignment-26\bin\Debug\SerializationDeserializationAssignment-26.exe.config
+C:\mphasis-B2\Day-21\SerializationDeserializationAssignment-26\SerializationDeserializationAssignment-26\bin\Debug\SerializationDeserializationAssignment-26.exe
+C:\mphasis-B2\Day-21\SerializationDeserializationAssignment-26\SerializationDeserializationAssignment-26\bin\Debug\SerializationDeserializationAssignment-26.pdb
+C:\mphasis-B2\Day-21\SerializationDeserializationAssignment-26\SerializationDeserializationAssignment-26\obj\Debug\SerializationDeserializationAssignment-26.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-21\SerializationDeserializationAssignment-26\SerializationDeserializationAssignment-26\obj\Debug\SerializationDeserializationAssignment-26.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-21\SerializationDeserializationAssignment-26\SerializationDeserializationAssignment-26\obj\Debug\SerializationDeserializationAssignment-26.exe
+C:\mphasis-B2\Day-21\SerializationDeserializationAssignment-26\SerializationDeserializationAssignment-26\obj\Debug\SerializationDeserializationAssignment-26.pdb
